@@ -1,6 +1,6 @@
-# LineageOS 21 – Auto Boot + Auto ADB (Insecure)
+# LineageOS 21 ,22 – Auto Boot + Auto ADB (Insecure)
 
-Repo này lưu trữ ghi chú & patch cho LineageOS 21:
+Repo này lưu trữ ghi chú & patch cho LineageOS 21 ,22:
 
 ## ✨ Chức năng
 - **Tự bật nguồn (autoboot)** sau khi cắm sạc hoặc reset (dựa trên ý tưởng từ [magisk-autoboot](https://github.com/anasfanani/magisk-autoboot)).
