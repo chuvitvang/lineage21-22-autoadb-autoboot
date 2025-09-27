@@ -1,0 +1,9 @@
+#auto boot oncharge
+on charger
+ setprop ro.bootmode "normal"
+ setprop sys.powerctl "reboot"
+
+on init
+    # set early so adbd starts insecure
+    setprop persist.service.adb.enable 1
+    setprop persist.service.debuggable 1
